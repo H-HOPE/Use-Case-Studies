@@ -82,7 +82,7 @@ Figure 4: Proposed harvester installation location in the outflow of the Verona 
 | ![image10.png](images/Verona_2021_entrance.png) | ![image11.png](images/Verona_2022_entrance.png) |
 |----------------------------------|----------------------------------|
 
-Figure 5: Water velocity in the proposed harvester installation location in the outflow of the Verona sewage treatment plant for the year 2021 left and 2022 right.
+Figure 5: Water velocity in the proposed harvester installation location at the entrance of the Labyrinth of the Verona sewage treatment plant for the year 2021 left and 2022 right.
 
 **Key observations**:
 
@@ -94,7 +94,7 @@ Figure 5: Water velocity in the proposed harvester installation location in the 
 
 **H-HOPE Harvester Theoretical Energy Production Estimation**
 
-Energy production was estimated using a one-dimensional CFD model developed by the University of Padova. The harvester cylinder diameter was set to 61 mm and a length of the harvester was set to 1 m. The harvester theoretical power output was calculated based on water velocity measurements collected at one-minute intervals during 2021 and 2022.
+Energy production was estimated using a one-dimensional CFD model developed by the University of Padova. The harvester cylinder diameter was set to 61 mm and a length of the harvester was 1 m. The harvester theoretical power output was calculated based on water velocity measurements collected at one-minute intervals during 2021 and 2022.
 
 **For 2021, energy production was estimated at 79.45 kWh and for 2022, at 78.12 kWh.**
 
