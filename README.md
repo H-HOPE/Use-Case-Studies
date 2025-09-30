@@ -60,7 +60,7 @@ Figure 3: Velocity duration curves for each ADCP in the proposed harvester insta
 
 The annual energy production estimated from the current analysis is 0.78 kWh yr⁻¹ (Location 1 — Lido1), 0.46 kWh yr⁻¹ (Location 2 — Lido2), 1.13 kWh yr⁻¹ (Location 3 — Malamocco) and 2.61 kWh yr⁻¹ (Location 4 — Chioggia). Energy production was calculated using a 1D CFD model developed by the University of Padova and water velocity measurements. The harvester cylinder diameter was set to 61 mm and the length of the cylinder was 1 m.
 
-To manage the strong short-term variability in flow, the harvester should be paired with a modest battery and a smart power management unit: storing energy during high-discharge events and supplying it during low or no flow intervals. Practical battery sizing: with an estimated daily yield of 5 Wh/day, a 50 Wh pack provides 10 days autonomy , while a 150 Wh pack gives one month.
+To handle the strong short-term variability in flow, the harvester should be paired with a modest battery and a smart power management unit. The PMU stores excess energy during high-discharge events and supplies it during low- or no-flow intervals. For practical sizing: assuming an average daily consumption of 5 Wh, a 50 Wh battery pack provides about 10 days of autonomy, while a 150 Wh pack extends this to roughly one month.
 
 
 ## Site 2: Verona sewage treatment discharge canal (Entrance of the Labyrinth)
