@@ -65,12 +65,12 @@ To handle the strong short-term variability in flow, the harvester should be pai
 
 ## Site 2: Verona sewage treatment discharge canal (Entrance of the Labyrinth)
 
-We analyzed water velocity data collected from the entrance of the outflow channel of the Verona sewage treatment plant, a location characterized by concentrated and laminar flow ideal for oscillating harvesters. Measurements, taken at one-minute intervals from January 2021 to December 2022, were analyzed to calculate potential harvester power generation.
+
+We analyzed water velocity data collected at the entrance of the Labyrinth of the Verona sewage treatment plant, a site characterized by concentrated, laminar flow—ideal conditions for oscillating energy harvesters. The proposed installation location, shown in Figure 4, provides optimal flow characteristics for efficient harvester operation.
 
 **Water velocity data analysis**
 
-The proposoed harvest intallation location, visible in Figure 4 offers concentrated, laminar flow ideal for the efficient operation of oscillating harvesters.
-The velocity time series for 2021 and 2022 (Fig. 5) represents the measured water velocity at the selected location in the Verona sewage treatment discharge canal. The dataset spans from January 2021 to December 2022, with one minute sampling interval.
+Velocity measurements were recorded at one-minute intervals from January 2021 to December 2022. The resulting time series (Figure 5) represents the measured water velocity at the selected site, which was subsequently analyzed to estimate the potential power generation of the proposed oscillating harvesters.
 
 <p align="center">
   <img src="images/Site_3_location.jpg" alt="image12" height="466">
