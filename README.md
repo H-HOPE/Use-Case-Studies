@@ -65,7 +65,7 @@ To handle the strong short-term variability in flow, the harvester should be pai
 
 ## Site 2: Verona sewage treatment discharge canal (Entrance of the Labyrinth)
 
-We analyzed water velocity data collected from the Entrance of the outflow channel of the Verona sewage treatment plant, a location characterized by concentrated and laminar flow ideal for oscillating harvesters. Measurements, taken at one-minute intervals from January 2021 to December 2022, were analyzed to calculate potential harvester power generation.
+We analyzed water velocity data collected from the entrance of the outflow channel of the Verona sewage treatment plant, a location characterized by concentrated and laminar flow ideal for oscillating harvesters. Measurements, taken at one-minute intervals from January 2021 to December 2022, were analyzed to calculate potential harvester power generation.
 
 **Water velocity data analysis**
 
@@ -94,9 +94,9 @@ Figure 5: Water velocity in the proposed harvester installation location in the 
 
 **H-HOPE Harvester Theoretical Energy Production Estimation**
 
-Energy production was calculated using a 1D CFD model developed by the University of Padova. The harvester cylinder diameter was set to 61 mm and the length of the cylinder was 1 m. The energy output was calculated from average water speed data collected in 2021 and 2022, measured in one minute intervals.
+The power output was calculated based on water velocity. Energy production was estimated using a one-dimensional CFD model developed by the University of Padova. The harvester cylinder diameter was set to 61 mm and a length was 1 m. Input data consisted of average water speed measurements collected at one-minute intervals during 2021 and 2022.
 
-Based on the cross section of the proposed installation site and the recorded flow data, we calculated the average one minute water speed in the proposed harvester installation section.
+Using the site’s cross-sectional profile and the recorded flow data, we determined the average one-minute water velocity at the proposed harvester installation location.
 
 **For 2021, energy production was estimated at 79.45 kWh and for 2022, at 78.12 kWh.**
 
