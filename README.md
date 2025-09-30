@@ -94,9 +94,7 @@ Figure 5: Water velocity in the proposed harvester installation location in the 
 
 **H-HOPE Harvester Theoretical Energy Production Estimation**
 
-The power output was calculated based on water velocity. Energy production was estimated using a one-dimensional CFD model developed by the University of Padova. The harvester cylinder diameter was set to 61 mm and a length was 1 m. Input data consisted of average water speed measurements collected at one-minute intervals during 2021 and 2022.
-
-Using the site’s cross-sectional profile and the recorded flow data, we determined the average one-minute water velocity at the proposed harvester installation location.
+Energy production was estimated using a one-dimensional CFD model developed by the University of Padova. The harvester cylinder diameter was set to 61 mm and a length of the harvester was set to 1 m. The harvester theoretical power output was calculated based on water velocity measurements collected at one-minute intervals during 2021 and 2022.
 
 **For 2021, energy production was estimated at 79.45 kWh and for 2022, at 78.12 kWh.**
 
