@@ -66,7 +66,7 @@ To handle the strong short-term variability in flow, the harvester should be pai
 ## Site 2: Verona sewage treatment discharge canal (Entrance of the Labyrinth)
 
 
-We analyzed water velocity data collected at the entrance of the Labyrinth of the Verona sewage treatment plant, a site characterized by concentrated, laminar flow—ideal conditions for oscillating energy harvesters. The proposed installation location, shown in Figure 4, provides optimal flow characteristics for efficient harvester operation.
+We analyzed water velocity data collected at the entrance of the Labyrinth of the Verona sewage treatment plant, a site characterized by concentrated, laminar flow, ideal conditions for oscillating energy harvesters. The proposed installation location, shown in Figure 4, provides optimal flow characteristics for efficient harvester operation.
 
 **Water velocity data analysis**
 
